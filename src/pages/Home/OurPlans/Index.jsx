@@ -6,8 +6,8 @@ import Plan from './Plan'
 export default function Index() {
   return (
     <div>
-      <div className='lg:w-[50%] w-[80%] mx-auto  my-16'>
-        <h1 className='font-sora font-semibold text-3xl mb-4 text-center '>Nossos Planos</h1>
+      <div className='lg:w-[50%] w-[80%] mx-auto text-center my-16'>
+        <h1 className='font-sora font-semibold text-3xl mb-4 '>Nossos Planos</h1>
         <p className='text-gray-0'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut atque  temporibus ab, commodi a delectus veritatis odio iure eveniet qui .</p>
       </div>
 
