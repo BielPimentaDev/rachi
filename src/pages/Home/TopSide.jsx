@@ -8,7 +8,7 @@ export function TopSide() {
         <div>
             <h2 className='font-sora font-semibold lg:text-4xl text-3xl my-6'>
                 Rachi, <br/>
-                é tudo que você <br/> precisa em um só lugar.
+                tudo que você <br/> precisa em um só lugar.
             </h2>
             <Button title="Cadastrar-se"/>
         </div>
