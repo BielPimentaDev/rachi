@@ -15,7 +15,7 @@ export default function Index() {
         <AppAnnounce/>
         <OurPlans/>
         <Contact/>
-        <p className='text-center pb-8'>Rachi - Todos os direitos reservados.</p>
+        <p className='text-center pb-8'>Rachi - Todos os direitos reservados. &copy; Criado por Gabriel Pimenta</p>
     </div>
   )
 }
